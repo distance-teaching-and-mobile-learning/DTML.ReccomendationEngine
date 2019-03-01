@@ -1,0 +1,18 @@
+---
+title: "AI Powered e-Learning ESL System of vocabulary acquisition for beginner learners"
+author: "DTML"
+date: "February 10, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+dir =getwd()
+```
+Load all data sets
+
+```{r}
+dataset <- read_csv("flightdata.csv")
+words_all<- read_csv("words.csv")
+
+```

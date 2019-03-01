@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549849749117.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3259853020",
+    "id" : "427E6FED",
+    "lastKnownWriteTime" : 1549929695,
+    "last_content_update" : 1549929695600,
+    "path" : "C:/DTML/Data/WordsResearch/words.R",
+    "project_path" : "words.R",
+    "properties" : {
+        "cursorPosition" : "45,0",
+        "scrollLine" : "32",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
